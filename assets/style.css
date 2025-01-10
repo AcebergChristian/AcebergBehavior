@@ -1,0 +1,19 @@
+.simulateAction_box {
+    width: 120;
+    height: 120;
+    display: flex;
+    flex-direction: column;
+    gap: 6;
+    align-items: center;
+    justify-content: center;
+    color: #333333;
+    font-size: 12;
+    border-radius: 6;
+    cursor: pointer;
+    overflow: hidden;
+    transition: background-color 0.3s;
+}
+
+.simulateAction_box:hover {
+    opacity: 0.79;
+}
