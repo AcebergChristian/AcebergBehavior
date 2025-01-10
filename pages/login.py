@@ -17,7 +17,7 @@ login_layout = html.Div(
                     [
                         fac.AntdSpace(
                                     [
-                                        html.H3("Aceberg Ai赋能平台",style={"color":"#333333","margin":0}),
+                                        html.H3("Aceberg用户行为分析",style={"color":"#333333","margin":0}),
                                         html.H4("Design by Aceberg",style={"color":"#333333","margin":0}),
                                     ],
                                     direction="vertical",
